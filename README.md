@@ -48,4 +48,16 @@ Generate monthly or semester reports
 
 Download the report for record-keeping
 
+## 📸 Demo Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 📊 Report Page
+![Report Page](screenshots/report.png)
+
+### 🔎 Search Feature
+![Search Feature](screenshots/search.png)
+
+
 

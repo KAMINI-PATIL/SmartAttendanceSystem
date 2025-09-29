@@ -21,4 +21,31 @@ A **Python-based Smart Attendance System** designed to simplify the daily tracki
 
 ---
 
+## **Installation / Setup**
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/SmartAttendanceSystem.git
+    2. Navigate to the project folder:
+   cd SmartAttendanceSystem
+
+3.Install required libraries:
+pip install -r requirements.txt
+
+4.Run the application:
+python attendance_system.py
+
+
+Usage
+
+Select class type (Theory / Practical)
+
+Enter student details and mark attendance (Present / Absent / Leave)
+
+Use the search function to check any student’s attendance
+
+Generate monthly or semester reports
+
+Download the report for record-keeping
+
 

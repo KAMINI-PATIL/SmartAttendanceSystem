@@ -1,6 +1,6 @@
 # Smart Attendance System
 
-A **Python-based Smart Attendance System** designed to simplify the daily tracking of student attendance. This system allows teachers to mark attendance for theory and practical classes, generate reports, and monitor attendance percentages efficiently. Ideal for colleges and schools looking for a quick, automated attendance solution.
+A Tkinter-based desktop application to manage student attendance with features like marking attendance, generating reports, searching records, and exporting data. Built using Python, Tkinter, Pandas, and Tkcalendar. This system allows teachers to mark attendance for theory and practical classes, generate reports, and monitor attendance percentages efficiently. Ideal for colleges and schools looking for a quick, automated attendance solution.
 
 ---
 
@@ -35,17 +35,19 @@ pip install -r requirements.txt
 4.Run the application:
 python attendance_system.py
 
+5.Tech Stack
+Python 3.x
+Tkinter (GUI framework)
+Tkcalendar (calendar widget)
+Pandas (data handling)
+Openpyxl (Excel export)
 
-Usage
 
+6.Usage
 Select class type (Theory / Practical)
-
 Enter student details and mark attendance (Present / Absent / Leave)
-
 Use the search function to check any student’s attendance
-
 Generate monthly or semester reports
-
 Download the report for record-keeping
 
 
